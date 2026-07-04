@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Souza Rodrigues
+#  Larissa Souza Rodrigues
 
 **`Desenvolvedor Front-End em formação`**
 
