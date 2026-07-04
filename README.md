@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End em formação`**
 
-Me chamo Larissa e sou de Minas Gerais. Sou apaixonado por tecnologia e estou iniciando minha jornada no desenvolvimento web. Atualmente, estudo HTML e CSS, desenvolvendo projetos para colocar em prática o que aprendo e aprimorar minhas habilidades. Estou sempre em busca de novos conhecimentos para evoluir como desenvolvedor.
+Me chamo Larissa e sou de Minas Gerais. Sou apaixonada por tecnologia e estou iniciando minha jornada no desenvolvimento web. Atualmente, estudo HTML e CSS, desenvolvendo projetos para colocar em prática o que aprendo e aprimorar minhas habilidades. Estou sempre em busca de novos conhecimentos para evoluir como desenvolvedor.
 
 <p align="left">
     <a href="https://github.com/lariintech?tab=repositories&sort=stargazers">
